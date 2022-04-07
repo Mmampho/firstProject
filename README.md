@@ -10,8 +10,8 @@ according to industry standards and documentation of systems according to
 industry standard). I am also exposed to AWS(Amazon Web Services) Cloud
 Practitioner , my exposure was through a three months AWS online
 bootcamp with Girlcode.</p>
-  <h2> Contact 
-   <style>
+  <style>
+  <h2> Contact </h2>
 p {
   color: red;
   text-align: center;
@@ -27,7 +27,6 @@ Midrand</p3><br>
 mphomphahlele188@gmail.com</p5><br>
   <p6>Nationality: South Africa</p6><br>
   <p7>Identity Number: 9312190540088</p7>
-  </h2>
   <h2> References</h2>
   <p8>1.Sinah Dichabe (Gijima) : +27 10
    449 5043/5206</p8> <br>
