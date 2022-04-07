@@ -1,8 +1,6 @@
 # Curriculum Vitae
-Mmampho
 <html>
 <body>
-
 <h1>Mmampho Mphahlele</h1>
 <p>I am Skilled in (Windows 7/10 and Ubuntu/Linux operating systems)and
 Programming languages (Java, Visual basics, CSS and HTML). I am also
