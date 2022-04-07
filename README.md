@@ -31,7 +31,7 @@ College) : +27 82 534 8119/
  +27 15 297 2711</p9><br>
 <p9>3.Hopane Mabitsi(GirlCode) : +27
  10 109 3148</p9><br>
-  <p10>Hazel Chieza(Mentor) : +27 73 012 2450</p10><br>
+  <p10>4.Hazel Chieza(Mentor) : +27 73 012 2450</p10><br>
   <h2> Work Experience</h2>
  <table>
   <tr>
