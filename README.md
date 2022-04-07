@@ -1,9 +1,6 @@
 # Curriculum Vitae
 Mmampho
 <html>
-<head>
-Curriculum Vitae
-</head>
 <body>
 
 <h1>Mmampho Mphahlele</h1>
