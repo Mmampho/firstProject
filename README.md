@@ -37,6 +37,12 @@ standards<br>
 8.Documentation of systems according to industry standards<br>
    </td>
    <td> 1.Cloud Concepts <br>2.Security and Compliance <br> 3.Technology <br> 4.Billing and Pricing </td> 
+   <td>1.User administration (setup and maintaining account)<br>
+2.Maintaining system.<br>
+3.Monitor system performance.<br>
+4.Create a backup and recovery policy<br>
+5.Organize, install and support an organization’s computer systems<br>
+   </td>
 </body>
   
 </html>
