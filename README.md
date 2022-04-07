@@ -23,7 +23,18 @@ bootcamp with Girlcode.</p>
    <td>1.Support a local area network<br>
 2.Operate an enterprise server computer network<br>
 3.Monitor and maintain a multi-user networked operating system<br>
-4.Administer a local area computer network
+    4.Administer a local area computer network</td>
+   <td>
+   1. Communication, personal development and technical
+meetings<br>
+2.Database creation and implementation, SQL<br>
+3.Input and output designs in systems development<br>
+4.Data collection and Data analysis<br>
+5.Programming(HTML) and the world wide web<br>
+6.Gathering techniques in system development<br>
+7.Documentation of programs according to industry
+standards<br>
+8.Documentation of systems according to industry standards<br>
 
 </body>
   
