@@ -2,8 +2,8 @@
 <html>
  <body>
  
-<h1 style="background-color:powderblue;" >Mmampho Mphahlele</h1>
-<p style="background-color:tomato;" >I am Skilled in (Windows 7/10 and Ubuntu/Linux operating systems)and
+<h1 style="color:blue;">Mmampho Mphahlele</h1>
+<p style="color:tomato;">I am Skilled in (Windows 7/10 and Ubuntu/Linux operating systems)and
 Programming languages (Java, Visual basics, CSS and HTML). I am also
 exposed to Microsoft SQL in terms of Database creation and
 implementation. Strong documentation skills ( documentation ofprograms
