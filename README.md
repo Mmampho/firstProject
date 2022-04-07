@@ -10,7 +10,7 @@ according to industry standards and documentation of systems according to
 industry standard). I am also exposed to AWS(Amazon Web Services) Cloud
 Practitioner , my exposure was through a three months AWS online
 bootcamp with Girlcode.</p>
-  <h2><img src="mpho.jpg" width="300" height="300"></h2>
+ <h2><img src="mpho.jpg" width="300" height="300"></h2>
 
 </body>
   
