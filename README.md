@@ -10,7 +10,21 @@ according to industry standards and documentation of systems according to
 industry standard). I am also exposed to AWS(Amazon Web Services) Cloud
 Practitioner , my exposure was through a three months AWS online
 bootcamp with Girlcode.</p>
-  <h1/> Work Experience</h2>
+  <h3> Contact </h3>
+  <p2>Address:</p2>
+  <p3>15 Tshunungusa Street<br>
+Ivory Park Ext 10<br>
+Midrand</p3>
+  <p4>Phone:
++27 72 575 1336
+</p4>
+  <p5>Email:
+mphomphahlele188@gmail.com</p5>
+  <p6>Nationality: South Africa</p6>
+  <p7>Identity Number: 9312190540088</p7>
+  
+  
+  <h2> Work Experience</h2>
  <table>
   <tr>
     <th>MCSE Windows server 2012 learnership ATTI College - May 2025 to July
@@ -43,6 +57,7 @@ standards<br>
 4.Create a backup and recovery policy<br>
 5.Organize, install and support an organization’s computer systems<br>
    </td>
+   
 </body>
   
 </html>
