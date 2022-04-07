@@ -13,12 +13,14 @@ bootcamp with Girlcode.</p>
   <h1/> Work Experience</h2>
  <table>
   <tr>
-    <th>MCSE Learnership</th>
-    <th>Software Development learnership NQF level 5</th>
-    <th>Girlcode AWS online Bootcamp</th>
-   <th>Teraco Data Environments IT Internship</th>
+    <th>MCSE Windows server 2012 learnership ATTI College - May 2025 to July
+2015</th>
+    <th>Software Development learnership NQF level 5 Gijima - February/2019 to February/2020 </th>
+    <th>Girlcode AWS online Bootcamp - January 2022 to March 2022</th>
+   <th>Teraco Data Environments IT Internship - September 2021 to Present </th>
   </tr>
   <tr>
+   <td>
 
 </body>
   
