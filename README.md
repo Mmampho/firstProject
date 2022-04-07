@@ -10,12 +10,7 @@ according to industry standards and documentation of systems according to
 industry standard). I am also exposed to AWS(Amazon Web Services) Cloud
 Practitioner , my exposure was through a three months AWS online
 bootcamp with Girlcode.</p>
-  <style>
   <h2> Contact </h2>
-p {
-  color: red;
-  text-align: center;
-} 
   <p2>Address:</p2>
   <p3>15 Tshunungusa Street<br>
 Ivory Park Ext 10<br>
