@@ -14,13 +14,13 @@ bootcamp with Girlcode.</p>
   <p2>Address:</p2>
   <p3>15 Tshunungusa Street<br>
 Ivory Park Ext 10<br>
-Midrand</p3>
+Midrand</p3><br>
   <p4>Phone:
 +27 72 575 1336
-</p4>
+</p4><br>
   <p5>Email:
-mphomphahlele188@gmail.com</p5>
-  <p6>Nationality: South Africa</p6>
+mphomphahlele188@gmail.com</p5><br>
+  <p6>Nationality: South Africa</p6><br>
   <p7>Identity Number: 9312190540088</p7>
   
   
