@@ -10,7 +10,7 @@ according to industry standards and documentation of systems according to
 industry standard). I am also exposed to AWS(Amazon Web Services) Cloud
 Practitioner , my exposure was through a three months AWS online
 bootcamp with Girlcode.</p>
-  <h3> Contact </h3>
+  <h2> Contact </h2>
   <p2>Address:</p2>
   <p3>15 Tshunungusa Street<br>
 Ivory Park Ext 10<br>
@@ -23,7 +23,7 @@ mphomphahlele188@gmail.com</p5><br>
   <p6>Nationality: South Africa</p6><br>
   <p7>Identity Number: 9312190540088</p7>
   
-  <h4> References</h4>
+  <h2> References</h2>
   <p8>1.Sinah Dichabe (Gijima) : +27 10
    449 5043/5206</p8> <br>
 <p9>2.Blantina Mabuela (ATTI
@@ -65,7 +65,7 @@ standards<br>
 4.Create a backup and recovery policy<br>
 5.Organize, install and support an organization’s computer systems<br>
    </td>
-   <h5> Certifications</h5>
+   <h2> Certifications</h2>
    <p12> 1.Dipolma in Information Technology</p12><br>
   <p13> 2.System Development NQF level
    5 (certificate)</p13><br>
