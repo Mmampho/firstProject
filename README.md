@@ -65,6 +65,7 @@ standards<br>
 4.Create a backup and recovery policy<br>
 5.Organize, install and support an organization’s computer systems<br>
    </td>
+  </table>
    <h3> Certifications</h3>
    <p12> 1.Dipolma in Information Technology</p12><br>
   <p13> 2.System Development NQF level
