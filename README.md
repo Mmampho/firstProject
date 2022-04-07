@@ -23,7 +23,15 @@ mphomphahlele188@gmail.com</p5><br>
   <p6>Nationality: South Africa</p6><br>
   <p7>Identity Number: 9312190540088</p7>
   
-  
+  <h4> References</h4>
+  <p8>1.Sinah Dichabe (Gijima) : +27 10
+   449 5043/5206</p8> <br>
+<p9>2.Blantina Mabuela (ATTI
+College) : +27 82 534 8119/
+ +27 15 297 2711</p9><br>
+<p9>3.Hopane Mabitsi(GirlCode) : +27
+ 10 109 3148</p9><br>
+  <p10>Hazel Chieza(Mentor) : +27 73 012 2450</p10><br>
   <h2> Work Experience</h2>
  <table>
   <tr>
