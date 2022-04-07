@@ -2,7 +2,7 @@
 Mmampho
 <html>
 <head>
-<title>Curriculum Vitae</title>
+Curriculum Vitae
 </head>
 <body>
 
