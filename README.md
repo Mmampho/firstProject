@@ -20,9 +20,9 @@ bootcamp with Girlcode.</p>
    <th>Teraco Data Environments IT Internship - September 2021 to Present </th>
   </tr>
   <tr>
-   <td>1.Support a local area network
-2.Operate an enterprise server computer network
-3.Monitor and maintain a multi-user networked operating system
+   <td>1.Support a local area network<br>
+2.Operate an enterprise server computer network<br>
+3.Monitor and maintain a multi-user networked operating system<br>
 4.Administer a local area computer network
 
 </body>
