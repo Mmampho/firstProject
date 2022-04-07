@@ -35,7 +35,8 @@ meetings<br>
 7.Documentation of programs according to industry
 standards<br>
 8.Documentation of systems according to industry standards<br>
-
+   </td>
+   <td> 1.Cloud Concepts <br>2.Security and Compliance <br> 3.Technology <br> 4.Billing and Pricing </td> 
 </body>
   
 </html>
