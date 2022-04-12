@@ -1,6 +1,6 @@
 # Curriculum Vitae
 <html>
- <style><body>{color:Blue;}</style>
+ <body>
 
 <h1>Mmampho Mphahlele</h1>
   <p>I am Skilled in (Windows 7/10 and Ubuntu/Linux operating systems)and
