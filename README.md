@@ -40,7 +40,6 @@ College) : +27 82 534 8119/
 2015</th>
     <th>Software Development learnership NQF level 5 Gijima - February/2019 to February/2020 </th>
     <th>Girlcode AWS online Bootcamp - January 2022 to March 2022</th>
-   <th>Teraco Data Environments IT Internship - September 2021 to Present </th>
   </tr>
   <tr>
    <td>1.Support a local area network<br>
@@ -60,12 +59,6 @@ standards<br>
 8.Documentation of systems according to industry standards<br>
    </td>
    <td> 1.Cloud Concepts <br>2.Security and Compliance <br> 3.Technology <br> 4.Billing and Pricing </td> 
-   <td>1.User administration (setup and maintaining account)<br>
-2.Maintaining system.<br>
-3.Monitor system performance.<br>
-4.Create a backup and recovery policy<br>
-5.Organize, install and support an organization’s computer systems<br>
-   </td>
   </table>
    <h3> Certifications</h3>
    <p12> 1.Dipolma in Information Technology</p12><br>
