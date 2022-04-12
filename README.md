@@ -1,6 +1,6 @@
 # Curriculum Vitae
 <html>
- <body>
+ <body
   {
   background-color: green;
 }
