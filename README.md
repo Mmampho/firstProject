@@ -1,0 +1,102 @@
+# firstProject
+Mmampho
+<html>
+ <body>
+<style>
+body {
+  background-color: lightgray;
+}
+</style>
+
+<h1 style="background-color:DodgerBlue;">Curriculum Vitae Of Mmampho Mphahlele</h1>
+<img src="mpho.jpg" alt="Mpho" width="300" height="300"><br>
+
+  <p>I am hardworking,accountable and able to work as a team and individual.I like to assist and built others.I am growth conscious 
+and always strive to improve and be better than yesterday</p>
+  <h1 style="background-color:DodgerBlue;"> Contact </h1>
+  <p2>Address:</p2>
+  <p3>15 Tshunungusa Street<br>
+Ivory Park Ext 10<br>
+Midrand</p3><br>
+  <p4>Phone:<a href="default.asp">
++27 72 575 1336
+</p4></a><br>
+  <p5>Email:<a href="default.asp">
+mphomphahlele188@gmail.com</p5></a><br>
+<p21>Linkedin:<a href="default.asp">mmampho-mphahlele-84129711a/</p21></a><br>
+  <p6>Nationality: South Africa</p6><br>
+  <p7>Identity Number: 9312190540088</p7>
+<h1 style="background-color:DodgerBlue;">Languages </h1>
+
+<p24>Sepedi: Native Proficiency </p24><br> <p25>English: Professional working Proficiency</p25><br>
+  <h1 style="background-color:DodgerBlue;"> References</h1>
+  <p8>1.Sinah Dichabe (Gijima) :<a href="default.asp"> +27 10
+   449 5043/5206</p8></a> <br>
+<p9>2.Blantina Mabuela (ATTI
+College) : <a href="default.asp">+27 82 534 8119/
+ +27 15 297 2711</p9></a><br>
+<p9>3.Hopane Mabitsi(GirlCode) :<a href="default.asp"> +27
+ 10 109 3148</p9></a><br>
+  <p10>4.Hazel Chieza(Mentor) :<a href="default.asp"> +27 73 012 2450</p10></a><br>
+<h1 style="background-color:DodgerBlue;"> Strength</h1>
+<p17>1.Ability to work in a team</p17><br>
+<p18>2.CommunicationSkill </p13><br>
+<p19>3.Analyticalskill</p19><br>
+<p20> 4.LeadershipSkill </p20><br>
+
+  <h1 style="background-color:DodgerBlue;"> Work Experience</h1>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid black;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:lightgray;
+}
+</style>
+ <table>
+  <tr>
+    <th>MCSE Windows server 2012 learnership ATTI College - May 2025 to July
+2015</th>
+    <th>Software Development learnership NQF level 5 Gijima - February/2019 to February/2020 </th>
+    <th>Girlcode AWS online Bootcamp - January 2022 to March 2022</th>
+  </tr>
+  <tr>
+   <td>1.Support a local area network<br>
+2.Operate an enterprise server computer network<br>
+3.Monitor and maintain a multi-user networked operating system<br>
+    4.Administer a local area computer network</td>
+   <td>
+   1. Communication, personal development and technical
+meetings<br>
+2.Database creation and implementation, SQL<br>
+3.Input and output designs in systems development<br>
+4.Data collection and Data analysis<br>
+5.Programming(HTML) and the world wide web<br>
+6.Gathering techniques in system development<br>
+7.Documentation of programs according to industry
+standards<br>
+8.Documentation of systems according to industry standards<br>
+   </td>
+   <td> 1.Cloud Concepts <br>2.Security and Compliance <br> 3.Technology <br> 4.Billing and Pricing </td> 
+  </table>
+   <h1 style="background-color:DodgerBlue;"> Certifications</h1>
+   <p12> 1.Dipolma in Information Technology</p12><br>
+  <p13> 2.System Development NQF level
+   5 (certificate)</p13><br>
+<p14>3.MCP(Microsoft Certified
+ Professional)</p14><br>
+<p15>4.AWS Online Bootcamp
+ Certification(Completed)</p15><br>
+   
+</body>
+  
+</html>
